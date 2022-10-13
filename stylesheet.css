@@ -1,0 +1,79 @@
+ body{bacground-image: url(7.JPG);
+        background-size: cover;
+           background-repeat: no-repeat;
+        background-color: ghostwhite;
+
+       }
+
+        p {
+  border: 0.3px solid black;
+  outline: #4CAF50 solid 2px;
+  margin: auto;  
+  padding: 10px;
+  text-align: center;
+}
+        }
+
+        h1{
+           color: red;
+           cursor: pointer;
+           transition: 0.2s;
+
+        }
+    h1:hover{
+      color: blue;
+      letter-spacing: 5px;
+
+    }
+    li{
+        color: blue;
+        cursor: pointer;
+        transition: 0.2s;
+
+    }
+    li:hover{
+        color: red;
+        letter-spacing: 5px;
+    }
+        
+ h2{
+    color:red;
+ 
+  cursor: blue ;
+  letter-spacing: 5 px;
+ 
+ }
+  h2:hover{
+    color: blue;
+    letter-spacing: 5px;
+  
+  }
+
+  p{
+    color: blue;
+    cursor: pointer;
+    transition: 0.2s;
+  }
+p:hover{
+    color: red;
+    letter-spacing: 5px;
+}
+
+
+         img{
+          width: 5cm;
+           border-radius: 45%;
+             box-shadow: 1px 1px 4px gray;
+          padding: 3px;
+          background:;
+          margin: 5px;
+           transition: 0.2s;
+           opacity: 80%;
+
+
+         }
+    img:hover{
+      transform: scale(1.2);
+      opacity: 100%;
+      box-shadow: 1px 1px 6px red;
+    }
